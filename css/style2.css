@@ -19,8 +19,9 @@ ol.rupper {list-style-type: upper-roman;}
 ol.rlower {list-style-type: lower-roman;}
 p { text-indent: 2.0em }
 p.c1 { border: 0px solid ; width: 90% ; color: #000000 }
-table.search { cellpadding: 9; cellspacing: 0; style="border:solid 1px #000;background-color:#cc9" }
-table.footer { cellpadding: 2; cellspacing: 2; width: 95%; }
+table.search { style="float:center;border:solid 1px #000;background-color:#cc9" }
+table.footer { style="float:center"; width: 95%; }
+tr.c1 { margin-left: 22em }
 
 /* Experimental CSS styles */
 
@@ -88,7 +89,7 @@ h2 {
             padding: 0 1em 0 1em;
             display: table; }
 
-.www_footer { text-align: left; color: yellow; background: blue; padding: 0 0 0 0 }
+.www_footer { text-align: left; color: #ffbf00; background: blue; padding: 0 0 0 0 }
 
 /* EOF */
 
